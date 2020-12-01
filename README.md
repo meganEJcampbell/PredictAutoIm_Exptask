@@ -17,3 +17,4 @@ Note: no explicit instruction is given about the changing likelihoods across blo
 For analysis see PredictAutoIm_HGF: Analysis focuses on computational modelling of precision weighted learning to provide insight into the behavioural effects (reaction time differences between congruent and incongruent trials), and comparing Rescorla-Wagner (RW) to hierachical perceptual-response models that incorporate beliefs about levels of uncertainty (Hierachical Gaussain Filter). HGF implemented with TAPAS toolbox: see https://github.com/translationalneuromodeling/tapas 
 
 
+Campbell, Mehrkanoon & Cunninton, 2018, Neuropsychologia https://www.sciencedirect.com/science/article/pii/S0028393218300435
